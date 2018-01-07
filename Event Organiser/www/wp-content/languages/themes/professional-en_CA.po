@@ -1,0 +1,424 @@
+# Translation of Themes - Professional in English (Canada)
+# This file is distributed under the same license as the Themes - Professional package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-28 23:59:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Professional\n"
+
+#. Description of the plugin/theme
+msgid "Professional is one of the most impressive themes best suitable for business, events, magazine or any other kind of blog. Basically, you can optimize this blog to use with any of your website. It features a powerful and well designed slider, a showcase area, some stunning animations throughout the site, cross browser compatibility, multiple navigation menus, full width page layouts, footer widget area. This theme is 100% responsive and will work flawlessly on all devices. This theme is 100% Translation ready, so now you can view it in your own language. Professional has been already translated into Spanish, French & German(Deutsche)."
+msgstr "Professional is one of the most impressive themes best suitable for business, events, magazine or any other kind of blog. Basically, you can optimize this blog to use with any of your website. It features a powerful and well designed slider, a showcase area, some stunning animations throughout the site, cross browser compatibility, multiple navigation menus, full width page layouts, footer widget area. This theme is 100% responsive and will work flawlessly on all devices. This theme is 100% Translation ready, so now you can view it in your own language. Professional has been already translated into Spanish, French & German(Deutsche)."
+
+#. Theme Name of the plugin/theme
+msgid "Professional"
+msgstr "professional"
+
+#. Template Name of the plugin/theme
+msgid "Blank Page (To show Sliders, Showcases, etc)"
+msgstr "Blank Page (To show Sliders, Showcases, etc)"
+
+#: inc/customizer.php:453
+msgid " Url"
+msgstr " Url"
+
+#: inc/customizer.php:440 inc/customizer.php:453
+msgid "Icon "
+msgstr "Icon "
+
+#: inc/customizer.php:419
+msgid "-"
+msgstr "-"
+
+#: inc/customizer.php:379
+msgid "Enter your Custom CSS to Modify design."
+msgstr "Enter your Custom CSS to Modify design."
+
+#: inc/customizer.php:354
+msgid "Professional Plus has more of Everything. More New Features, More Options, Unlimited Colors, More Fonts, More Layouts, Configurable Slider, More Widgets, and a lot more options and comes with Dedicated Support. To Know More about the Pro Version, click here: <a href=\"http://inkhive.com/product/professional-plus/\">Upgrade to Pro</a>."
+msgstr "Professional Plus has more of Everything. More New Features, More Options, Unlimited Colors, More Fonts, More Layouts, Configurable Slider, More Widgets, and a lot more options and comes with Dedicated Support. To Know More about the Pro Version, click here: <a href=\"http://inkhive.com/product/professional-plus/\">Upgrade to Pro</a>."
+
+#: inc/customizer.php:353
+msgid "More of Everything"
+msgstr "More of Everything"
+
+#: inc/customizer.php:338
+msgid "Discover PROFESSIONAL PLUS"
+msgstr "Discover PROFESSIONAL PLUS"
+
+#: inc/customizer.php:295
+msgid "Showcase Description"
+msgstr "Showcase Description"
+
+#: inc/customizer.php:233
+msgid "Enable Showcase."
+msgstr "Enable Showcase."
+
+#: inc/customizer.php:195 inc/customizer.php:310
+msgid "Target URL"
+msgstr "Target URL"
+
+#: inc/customizer.php:180
+msgid "Slide Description"
+msgstr "Slide Description"
+
+#: inc/customizer.php:117
+msgid "Save the Settings, and Reload this page to Configure the Slides."
+msgstr "Save the Settings, and Reload this page to Configure the Slides."
+
+#: inc/customizer.php:114
+msgid "No. of Slides(Min:0, Max: 5)"
+msgstr "No. of Slides(Min:0, Max: 5)"
+
+#: inc/customizer.php:96
+msgid "Enable Slider."
+msgstr "Enable Slider."
+
+#: inc/customizer.php:81 inc/customizer.php:218
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+#: inc/customizer.php:56
+msgid "Site Title Color"
+msgstr "Site Title Colour"
+
+#: inc/customizer.php:34
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+#: inc/customizer.php:21
+msgid "Title, Tagline & Logo"
+msgstr "Title, Tagline & Logo"
+
+#: functions.php:266
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Select &mdash;"
+
+#. Template Name of the plugin/theme
+msgid "Full Width (No Sidebar)"
+msgstr "Full Width (No Sidebar)"
+
+#: sidebar.php:19
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform-top.php:12
+msgctxt "placeholder"
+msgid "Search...."
+msgstr "Search...."
+
+#: searchform-top.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/customizer.php:378
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: inc/customizer.php:414
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: inc/customizer.php:281
+msgid "Showcase Title"
+msgstr "Showcase Title"
+
+#: inc/customizer.php:212
+msgid "Showcases"
+msgstr "Showcases"
+
+#: inc/customizer.php:166
+msgid "Slide Title"
+msgstr "Slide Title"
+
+#: inc/template-tags.php:159
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/template-tags.php:152
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:137 inc/template-tags.php:155
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:137
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:81
+msgid "<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+msgstr "<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Page %s"
+
+#: home.php:18
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: header.php:52
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:107
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:89
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:80
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: functions.php:46
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:19
+msgid "Powered by %1$s Theme"
+msgstr "Powered by %1$s Theme"
+
+#: inc/customizer.php:425
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer.php:423
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:424
+msgid "RSS Feeds"
+msgstr "RSS Feeds"
+
+#: inc/customizer.php:421
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:422
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer.php:420
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content-single.php:47
+msgid "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: content-single.php:45
+msgid "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: content-single.php:39
+msgid "<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: content-single.php:37
+msgid "<i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:29 content-single.php:32
+msgid ", "
+msgstr ", "
+
+#: content-page.php:23 content-single.php:60
+msgid "<i class=\"fa fa-edit\"></i> Edit"
+msgstr "<i class=\"fa fa-edit\"></i> Edit"
+
+#: content-page.php:18 content-single.php:20 content.php:30
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-grid2.php:21
+msgid "Read More..."
+msgstr "Read more..."
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: archive.php:67 sidebar.php:12
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:64
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:61
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:58
+msgid "Statuses"
+msgstr "Statuses"
+
+#: archive.php:55
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:52
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:49
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:46
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:43
+msgid "Galleries"
+msgstr "Galleries"
+
+#: archive.php:40
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: archive.php:31
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: archive.php:28
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "http://inkhive.com"
+msgstr "http://inkhive.com"
+
+#. Author of the plugin/theme
+msgid "Rohit Tripathi"
+msgstr "Rohit Tripathi"
+
+#. Theme URI of the plugin/theme
+msgid "http://inkhive.com/product/professional/"
+msgstr "http://inkhive.com/product/professional/"

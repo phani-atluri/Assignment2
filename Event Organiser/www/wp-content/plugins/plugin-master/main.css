@@ -1,0 +1,25 @@
+.warn{
+    color:red;
+    font-size:80%;
+    padding-bottom: 1em;
+}
+
+.form-control {
+    margin-left: 10px;
+    height: 25px;
+}
+
+#addevent {
+    margin-left: 10px;
+    height: 50px;
+    vertical-align: text-top;
+    width: 20%;
+}
+.form-control{
+    width: 20%;
+}
+label{
+    width: 10%;
+    font-size: 15px;;
+}
+
